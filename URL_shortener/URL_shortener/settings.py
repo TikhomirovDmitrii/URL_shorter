@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'url_shortener_db',  # Название базы данных
         'USER': 'root',  # Пользователь
-        'PASSWORD': 'Qw3pp48z123@',  # Пароль
+        'PASSWORD': '********',  # Пароль
         'HOST': 'localhost',  # Адрес базы данных (для Docker можно будет настроить контейнер)
         'PORT': '3306',  # Порт MySQL
     }
